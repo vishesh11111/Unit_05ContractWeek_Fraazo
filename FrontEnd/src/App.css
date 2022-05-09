@@ -1,0 +1,109 @@
+
+ /* footer */
+
+ .footer{
+  background-color: rgb(22,82,65);
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 60px 0px 0px 0px;
+  margin-top: -3px;
+}
+.footer h6{
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+  margin-top: 10px;
+  margin-left: 28px;
+}
+.ul li{
+  list-style: none;
+  color: rgb(172,193,187);
+  margin: 15px 0px;
+}
+
+#footer-poster-static{
+  width: 100%;
+  height: auto;
+  margin-top: -3px;
+}
+.frazzo{
+  width: 400px;
+  height: 265px;
+}
+
+
+.download-app{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+  align-items: center;
+}
+.download-img{
+  width: 50%;
+  height: fit-content;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+.download-img img{
+  width: 100%;
+  height: 750px;
+}
+.download-form{
+  width: 35%;
+  margin-left: 30px;
+}
+.download-form h2{
+  margin: 40px 0px;
+}
+.download-form h5{
+  font-weight: 200;
+  margin: 20px 0px;
+}
+#button-addon1{
+  background-color: #fff;
+  color: black;
+  border: none;
+  border-right: 1px solid rgb(152, 145, 145);
+}
+.available img{
+  width: auto;
+  height: 90px;
+}
+.form-control{
+  border: none;
+}
+.input-group input{
+  border: none;
+}
+.input-group{
+  border: 1px solid rgb(229,229,229);
+  padding: 15px;
+  border-radius: 5px;
+  margin: 20px 0px;
+}
+#button{
+  width: 560px;
+  background-color: rgb(173,228,215);
+  color: #fff;
+  padding: 20px;
+  border: none;
+  margin: 20px 0px;
+  border-radius: 5px;
+}
+.available{
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0px;
+  justify-content: center;
+  align-items: center;
+  color: rgb(160,162,161);
+}
+.available img{
+  width: 200px;
+  height: 70px;
+  margin: 0px 10px;
+}
